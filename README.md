@@ -23,7 +23,7 @@ git clone https://github.com/sabarevasan/pascals-triangle.git
 ```
 - Navigate to the Directory: Change your working directory to the cloned repository:
 ```bash
-cd pascals-triangle
+cd pascals-triangle/src
 ```
 - Compile the Code: Compile the Java source files using the following command:
 ```bash
